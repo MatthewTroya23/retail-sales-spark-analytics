@@ -1,0 +1,10 @@
+# Data and generated artifacts
+data/*.json
+output/*.csv
+.ipynb_checkpoints/
+__pycache__/
+spark-warehouse/
+metastore_db/
+derby.log
+.env
+.DS_Store
